@@ -1,2 +1,3 @@
-# WaterTravelsWebsiteDesign
-A simple yet elegant and eye-catching website design for `water Travels`  website
+# Water Travels
+A simple yet elegant and eye-catching design for `water Travels`  website
+image source: www.pexels.com
